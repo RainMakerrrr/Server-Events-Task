@@ -1,0 +1,14 @@
+{
+    "events": [
+      { "id": 1, "type": "levelStart", "data": "level:3" },
+      { "id": 2, "type": "levelEnd", "data": "level:3" },
+      { "id": 3, "type": "levelFailed", "data": "level:5" }
+    ],
+    "comments": [
+      { "id": 1, "body": "some comment", "postId": 1 },
+      { "id": 2, "body": "some comment", "postId": 1 }
+    ],
+    "profile": {
+      "name": "typicode"
+    }
+  }
